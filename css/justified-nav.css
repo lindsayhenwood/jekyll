@@ -19,5 +19,10 @@
    		width: 600px;
    }
 
+   img {
+   	border: 1px solid;
+   	border-radius: 15px;
+   }
+
 
 
