@@ -1,0 +1,23 @@
+   <link href="/css/justified-nav.css" rel="stylesheet">
+
+   body {
+   	font-family: Helvetica;
+   	font-size; 2em;
+   }
+   
+   #home .navbar {
+   		color: #13c3ad;
+   }
+
+   .lead {
+   		font-style: Helvetica;
+   		text-align: center;
+   }
+
+   .jumbotron {
+   		height: 250px;
+   		width: 600px;
+   }
+
+
+
